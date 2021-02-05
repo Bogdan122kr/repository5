@@ -1,0 +1,24 @@
+.a1{
+    width: 82.9%;
+    height: 278px;
+    background-color: rgb(14, 10, 245);
+    margin-left: 162px;
+    
+}
+.a2{
+    width: 265px;
+    height: 554px;
+    background-color: brown;
+    margin-left: 160px;
+    margin-top: 18.1px;
+}
+.a3{
+    width: 1230px;
+    height: 554.4px;
+    background-color: chartreuse;
+    margin-top: 18px;
+    margin-left: 27.5px;
+}
+.b{
+    display: flex;
+}
