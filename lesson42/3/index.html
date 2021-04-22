@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="./aframe.min.js"></script>
+    <a-scene>
+        <a-entity position="0 30 100">
+            <a-camera></a-camera>
+        </a-entity>
+        <a-sky  src="https://lh3.googleusercontent.com/proxy/3BC0zzauLwbnaqevyHHukrO-JTvtAJDEL7P7ri_mVHgynLpTDAxFPF1MHcE3rm7RYnne4yh5mwjaXG7hO7dMMfVBAEYRecWD96lrBDD6Yn128IaRhvJl68tXQ5ylqRxQ=w1200-h630-p-k-no-nu"></a-sky>
+        <a-entity><a-sphere radius="20" position= "0 30 -50"  src="data:image/jpeg;base64,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"></a-sphere></a-entity>
+        <a-animation attribute="rotation" dur="10000" from="0 0 0" to="0 360 0" repeat="indefinite" delay="0" easing="linear"></a-animation>
+    </a-scene>
+</body>
+</html>

@@ -1,0 +1,346 @@
+body{
+    background-color: #E5E5E5;
+}
+.nav{
+    width: 90%;
+    height: 80px;
+    background-color: #FFFFFF;
+    display: flex;
+    
+}
+.nav1{
+    padding-left: 30px;
+    height: 80px;
+    width: 200px;
+    display: flex;
+    background-color: #FFFFFF;
+}
+.nav2{
+    padding-left: 30px;
+    height: 80px;
+    width: 200px;
+    background-color: #ECF0F1;
+}
+.krug{
+    background-color: red;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+
+}
+.hvkr{
+    position: relative;
+    bottom: 17px;
+    left: 3px;
+    font-size:20px;
+}
+.inp11{
+    width: 150px;
+    height: 40px;
+    border: 4px solid #ECF0F1;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    
+}
+.inp{
+    width: 100%;
+    height: 100px;
+    padding-left: 20%;
+}
+.inp1{
+    width: 210px;
+    height: 60px;
+    background-color: #ECF0F1;
+    margin-left: 300px;
+    border-radius: 10%;
+}
+.header1{
+    width: 100%;
+    height: 360px;
+    display: flex;
+    padding-top: 50px;
+}
+.form{
+    width: 30%;
+    height: 285px;
+    background-color: #FFFFFF;
+}
+.inp12{
+    border: 2px solid rgb(21, 255, 0);
+    width: 300px;
+    height: 40px;
+}
+.inp122{
+    border: 2px solid rgb(21, 255, 0);
+    width: 200px;
+    height: 40px;
+    
+}
+.inp13{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+
+}
+.knopka1{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin-left: 35%;
+    border-radius: 20%;
+    background-color: #34495E;
+}
+.knopka11{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin-left: 35%;
+    border-radius: 20%;
+    background-color: #34495E;
+}
+.knop1{
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 20%;
+}
+.knop11{
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 20%;
+}
+.p1k{
+   padding-top: 15px;
+}
+.p1k1{
+    padding-top: 15px;
+ }
+.fp{
+    font-size: 16px;
+    color: #2D3E50;
+    padding-left: 30%;
+}
+.twitter{
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-left: 35%;
+}
+.niz{
+    background-color: #2DAAE4;
+    height: 60px;
+    
+}
+.st2form{
+    width: 30%;
+    height: 230px;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+
+}
+.zagl2{
+    font-size: 18px;
+    color: #2D3E50;
+    text-align: center;
+}
+.inp2{
+    width: 100px;
+    height: 40px;
+    padding-top: 35px;
+    padding-left: 30%;
+}
+.soc1{
+  background-color: #3468AF;
+}
+.soc2{
+    background-color: #4FC4F6;
+  }
+  .soc3{
+    background-color: #E64C65;
+  }
+  .soc4{
+    background-color: #334A5C;
+  }
+#soc11{
+    width: 150px;
+    height: 100px;
+}
+.soc{
+    display: flex;
+    width: 570px;
+    margin-top: 60px;
+    height: 100px;
+}
+.text3{
+    width: 30%;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+}
+.title{
+    background-color: #1BBC9B;
+    width: 100%;
+    height: 200px;
+}
+.krugbel{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 100%;
+
+}
+.h1kr{
+    font-size: 16px;
+    color: white;
+    padding-top: 5px;
+}
+.h2kr{
+    font-size: 14px;
+    color: white;
+    padding-top: 5px;
+
+}
+.zagltitl{
+    width: 100%;
+    height: 190px;
+    margin-left: 40%;
+    padding-top: 30px;
+    
+}
+.div2{
+    width: 100%;
+    height: 40px;
+    background-color: #ECF0F1;
+    position: relative;
+    bottom: 21px;
+    display: flex;
+    
+}
+#h3d{
+    font-size: 19px;
+    color: #2D3E50;
+    padding-left: 30px;
+}
+.nizz{
+    font-size: 16px;
+    color: #2D3E50;
+}
+.header2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    padding-top: 30px;
+
+}
+
+.skill{
+    width: 30%;;
+    height: 500px;
+    background-color: #FFFFFF;
+}
+.poloska{
+    display: flex;
+    width: 360px;
+    height: 20px;
+    padding-left: 20px;
+}
+.pol1{
+    background-color: #1BBC9B;
+    width: 300px;
+    height: 20px;
+}
+.pol2{
+    background-color: #ECF0F1;
+    width: 80px;
+    height: 20px;
+}
+.skiltext{
+    color: #2D3E50;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.skillzgl{
+    font-size: 22px;
+    color: #2D3E50;
+    text-align: center;
+}
+.pol3{
+    background-color: #1BBC9B;
+    width: 340px;
+    height: 20px;
+}
+.pol4{
+    background-color: #ECF0F1;
+    width: 40px;
+    height: 20px;
+}
+.pol5{
+    background-color: #1BBC9B;
+    width: 230px;
+    height: 20px;
+}
+.pol6{
+    background-color: #ECF0F1;
+    width: 150px;
+    height: 20px;
+}
+.pol7{
+    background-color: #1BBC9B;
+    width: 190px;
+    height: 20px;
+}
+.pol8{
+    background-color: #ECF0F1;
+    width: 200px;
+    height: 20px;
+}
+.pol9{
+    background-color: #1BBC9B;
+    width: 140px;
+    height: 20px;
+}
+.pol10{
+    background-color: #ECF0F1;
+    width: 240px;
+    height: 20px;
+}
+#skillblok{
+    padding-top: 10px;
+}
+.menu{
+    width: 30%;
+    height: 520px;
+    margin-left: 20px;
+}
+.menu2{
+    background-color: #ffffff;
+}
+.blok{
+    width: 100%;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+}
+.blok1{
+    width: 100%;
+    height: 50px;
+    background-color: #ECF0F1;
+}
+.zel{
+    width: 100%;
+    height: 70px;
+    background-color: teal;
+}
+.menutext{
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-top: 4%;
+}
+#perelik{
+    padding-left: 40px;
+    font-size: 24px;
+    color: #2D3E50;
+}
